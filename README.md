@@ -2,10 +2,10 @@
 
 This Python implementation demonstrates:
 
-1.Backup creation using tar
-2.Log-based monitoring
-3.Error handling
-4.Configuration management
+1. Backup creation using tar.
+2. Log-based monitoring.
+3. Error handling.
+4. Configuration management.
 
 For a complete portfolio project, add:
 
